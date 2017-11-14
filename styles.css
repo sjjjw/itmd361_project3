@@ -1,0 +1,211 @@
+/* Project 3 */
+
+#menu {
+  overflow:hidden;
+  background-color:#d8c5ea;
+  width:100%;
+  top:0px;
+  position:static;
+}
+#menu ul{
+ margin-left:33%;
+ margin-right:33%;
+}
+#menu ul li a{
+  text-decoration:none;
+  text-align:center;
+  font:bold 18px 'Roboto', sans-serif;
+  padding:14px 38px;
+  float: left;
+  color:white;
+  display:block;
+}
+#menu a:hover{
+  background-color: #c2b1d2;
+}
+
+/*footer*/
+.bottom{
+  background-color:#d8c5ea;
+  text-align:right;
+  font-size:11px;
+  width:auto;
+  padding:14px 38px;
+}
+/* map */
+#map{
+  height:350px;
+  width:450px;
+}
+
+/*index*/
+#intro{
+  overflow:auto;
+  width:93%;
+  margin-top:6px;
+  margin-bottom:6px;
+  margin-left:6px;
+  margin-right:6px;
+  padding:3%;
+  border:1px solid gray;
+}
+#intro h2{
+  font:bold 21px/30px 'Roboto', sans-serif;
+}
+#intro p{
+  font: 15px/30px 'Roboto', sans-serif;
+}
+#logo{
+  overflow:auto;
+  width:93%;
+  margin-top:6px;
+  margin-bottom:6px;
+  margin-left:6px;
+  margin-right:6px;
+  padding:3%;
+  border:1px solid gray;
+}
+#logo h4{
+  font:bold 18px/30px 'Roboto', sans-serif;
+}
+#logo img{
+  float: left;
+}
+
+#country{
+  overflow:auto;
+  width:93%;
+  margin-top:6px;
+  margin-bottom:6px;
+  margin-left:6px;
+  margin-right:6px;
+  padding:3%;
+  border:1px solid gray;
+}
+#country h2{
+  font:bold 18px/30px 'Roboto', sans-serif;
+}
+#country p{
+  font: 15px/30px 'Roboto', sans-serif;
+}
+#hometown{
+  margin-top:30px;
+}
+
+div.gallery {
+    margin: 10px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 250px;
+    
+}
+
+div.gallery:hover {
+    border: 1px solid #777;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+
+/*Hobbies*/
+#hob{
+  overflow:auto;
+  width:93%;
+  margin-top:6px;
+  margin-bottom:6px;
+  margin-left:6px;
+  margin-right:6px;
+  padding:3%;
+}
+#hob h3{
+  font:bold 19px/30px 'Roboto', sans-serif;
+}
+#hob h4{
+  font:bold 18px/30px 'Roboto', sans-serif;
+}
+#hob p{
+  font: 15px/30px 'Roboto', sans-serif;
+}
+
+.gallery2 {
+    width: auto;
+    height: 100%;
+    
+}
+.gallery2 img {
+    margin: 10px;
+    border: 1px solid #ccc;
+    float: left;
+    height: 180px;
+    
+}
+.gallery2 img:hover {
+    border: 1px solid #777;
+}
+
+#rotation{
+  width: 180px;
+  -webkit-transform: rotate(90deg);
+}
+/*Resume*/
+#res {
+  overflow:auto;
+  width:93%;
+  height:100%;
+  margin-top:6px;
+  margin-bottom:6px;
+  margin-left:6px;
+  margin-right:6px;
+  padding:3%;
+  border:1px solid gray;
+}
+#res h4{
+  font:bold 18px/30px 'Roboto', sans-serif;
+}
+#res p{
+  font: 15px/30px 'Roboto', sans-serif;
+}
+#res ul{
+  font: 15px/30px 'Roboto', sans-serif;
+  list-style-type:square;
+  margin-left:30px;
+}
+#personal{
+  text-align:right;
+  margin-bottom:20px;
+  height:100px;
+}
+#edu{
+  height:240px;
+  margin-bottom:20px;
+}
+#exp{
+  height:330px;
+  margin-bottom:20px;
+}
+#skill{
+  margin-bottom:20px;
+  height:90px;
+}
+#act{
+  margin-bottom:20px;
+  height:90px;
+}
+#awd{
+  margin-bottom:20px;
+  height:60px;
+}
+#sch{
+  margin-bottom:20px;
+}
+.strong{
+  font-weight:bold;
+}
