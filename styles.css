@@ -151,7 +151,7 @@ div.desc {
     border: 1px solid #777;
 }
 
-#rotation{
+.rotation{
   width: 180px;
   -webkit-transform: rotate(90deg);
 }
