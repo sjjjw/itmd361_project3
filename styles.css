@@ -1,24 +1,21 @@
 /* Project 3 */
 
-#menu {
-  overflow:hidden;
-  background-color:#d8c5ea;
-  width:100%;
-  top:0px;
-  position:static;
-}
 #menu ul{
- margin-left:33%;
- margin-right:33%;
+  background-color:#d8c5ea;
+  text-align:center;
+  top:0px;
+  padding:18px;
+  margin-left:0px;
+  margin-right:0px;
+}
+#menu ul li{
+  display:inline;
 }
 #menu ul li a{
   text-decoration:none;
-  text-align:center;
   font:bold 18px 'Roboto', sans-serif;
-  padding:14px 38px;
-  float: left;
+  padding:0px 38px;
   color:white;
-  display:block;
 }
 #menu a:hover{
   background-color: #c2b1d2;
