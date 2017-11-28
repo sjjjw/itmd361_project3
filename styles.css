@@ -65,6 +65,9 @@
 #logo h4{
   font:bold 18px/30px 'Roboto', sans-serif;
 }
+#logo p{
+  font: 15px/30px 'Roboto', sans-serif;
+}
 #logo img{
   float: left;
 }
