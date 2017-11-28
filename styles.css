@@ -124,6 +124,7 @@ div.desc {
   margin-left:6px;
   margin-right:6px;
   padding:3%;
+  border:1px solid gray;
 }
 #hob h3{
   font:bold 19px/30px 'Roboto', sans-serif;
@@ -134,7 +135,9 @@ div.desc {
 #hob p{
   font: 15px/30px 'Roboto', sans-serif;
 }
-
+.sec{
+  margin-top:15px;
+}
 .gallery2 {
     width: auto;
     height: 100%;
